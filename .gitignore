@@ -1,0 +1,17 @@
+
+/Real-life_Deception_Detection_2016/
+venv/
+ENV/
+env/
+Lib/
+__pycache__/
+*.pyc
+*.pyd
+*.so
+*.dll
+*.lib
+*.jpg
+*.wav
+*.mp4
+*.png
+
